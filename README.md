@@ -317,6 +317,43 @@ Pathein Distance University, Myanmar
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213E,50:1A1A2E,100:0D0D0D&height=120&section=footer&text=မြန်မာ+%7C+Microsoft+%7C+Android&fontSize=18&fontColor=C9A84C&fontAlignY=65&animation=fadeIn" width="100%" />
 
+
+
+---
+
+## `$ ping me`
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-moekyawaung.dev%40gmail.com-00ff41?style=flat-square&logo=gmail&logoColor=white&labelColor=0a0a0f)](mailto:moekyawaung.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-moekyawaung--programmer.github.io-00f5ff?style=flat-square&logo=githubpages&logoColor=white&labelColor=0a0a0f)](https://moekyawaung-programmer.github.io/)
+[![GitHub Main](https://img.shields.io/badge/GitHub-moekyawaung--programmer-b0ffb0?style=flat-square&logo=github&logoColor=white&labelColor=0a0a0f)](https://github.com/moekyawaung-programmer)
+[![Phone](https://img.shields.io/badge/Phone-%2B95_989_000_889-ffb700?style=flat-square&logo=whatsapp&logoColor=white&labelColor=0a0a0f)](tel:09889000889)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+[ CONNECTION ESTABLISHED ] [ Myanmar 🇲🇲 ] [ UTC+6:30 ]
+"The stack runs deep. So does the code." — Moe Kyaw Aung
+```
+
+![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+<sub>
+<code>moekyawaung-hack</code> · Built with Kotlin, midnight coffee, and 112 certs 🏆
+</sub>
+</div>
+
+
 <div align="center">
 <sub>⚡ Crafted with pride in Myanmar · Powered by Kotlin & Compose · Deployed to the World 🌏</sub>
 </div>
