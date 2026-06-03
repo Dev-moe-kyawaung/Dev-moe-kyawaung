@@ -47,7 +47,7 @@
 
 
 </div>
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>။ </div>
+<img align="middle" alt="Coding" width="280" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>။ </div>
 
 
 
