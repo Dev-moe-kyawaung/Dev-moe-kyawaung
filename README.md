@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/Jetpack-4285F4?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 
-  <p><strong>5+ years crafting scalable, production-grade Android applications with Clean Architecture, Firebase, and modern DevOps practices.</strong></p>
+  <p><strong  <p>> 10+ years crafting scalable, production-grade Android applications with Clean Architecture, Firebase, and modern DevOps practices.</strong></p>
 
 
 
