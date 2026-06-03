@@ -37,8 +37,6 @@
 <!-- ░░░ ABOUT ME ░░░ -->
 <!-- ████████████████████████████████████████████████ -->
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
-
 
   <img src="https://img.shields.io/badge/Kotlin-0095E5?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
@@ -75,6 +73,7 @@ object Moekyawaung2026 {
 ```
 
 <br clear="right"/>
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
 
 ---
 
