@@ -17,7 +17,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=C9A84C&center=true&vCenter=true&multiline=false&width=700&lines=Senior+Android+Developer+%40+Microsoft;Kotlin+%7C+Jetpack+Compose+%7C+Clean+Architecture;Building+From+Myanmar+%F0%9F%87%B2%F0%9F%87%B2+%E2%86%92+The+World Myanmar developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=C9A84C&center=true&vCenter=true&multiline=false&width=700&lines=Senior+Android+Developer+%40+Microsoft;Kotlin+%7C+Jetpack+Compose+%7C+Clean+Architecture;Building+From+Myanmar+%F0%9F%87%B2%F0%9F%87%B2+%E2%86%92+The+Worldမြန်မာထိပ်တန်းdeveloper)](https://git.io/typing-svg)
 
 <br/>
 
