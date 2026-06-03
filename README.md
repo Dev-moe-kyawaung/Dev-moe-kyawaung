@@ -45,10 +45,13 @@
 
   <p><strong  <p>> 10+ years crafting scalable, production-grade Android applications with Clean Architecture, Firebase, and modern DevOps practices.</strong></p>
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
+
+</div>
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>။ </div>
 
 
-      </div>
+
+</div>
 ## 〔 About Me 〕 ကျွန်တော်အကြောင်း
 
 ```kotlin
