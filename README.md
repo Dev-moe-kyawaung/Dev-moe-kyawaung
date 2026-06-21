@@ -125,10 +125,10 @@ object Moekyawaung2026 {
 </div>
 
 ---
-[![html5-css-javascript-react-tailwindcss-bootstrap-nodejs-python-java-mysql-mongodb-docker-facebook-x-instagram-linkedin-youtube-tiktok](https://www.readmecodegen.com/api/social-icon?name=html5%2Ccss%2Cjavascript%2Creact%2Ctailwindcss%2Cbootstrap%2Cnodejs%2Cpython%2Cjava%2Cmysql%2Cmongodb%2Cdocker%2Cfacebook%2Cx%2Cinstagram%2Clinkedin%2Cyoutube%2Ctiktok&size=120&animation=fade&animationDuration=2.2&link=https%3A%2F%2Fgithub.com%2FDev-moe-kyawaung%2F)](https://github.com/Dev-moe-kyawaung/)
+## [![html5-css-javascript-react-tailwindcss-bootstrap-nodejs-python-java-mysql-mongodb-docker-facebook-x-instagram-linkedin-youtube-tiktok](https://www.readmecodegen.com/api/social-icon?name=html5%2Ccss%2Cjavascript%2Creact%2Ctailwindcss%2Cbootstrap%2Cnodejs%2Cpython%2Cjava%2Cmysql%2Cmongodb%2Cdocker%2Cfacebook%2Cx%2Cinstagram%2Clinkedin%2Cyoutube%2Ctiktok&size=120&animation=fade&animationDuration=2.2&link=https%3A%2F%2Fgithub.com%2FDev-moe-kyawaung%2F)](https://github.com/Dev-moe-kyawaung/)
+[![Angular-Firebase-html5-css-javascript-react-tailwindcss-bootstrap-Laravel-Linux-JavaScript-Bootstrap-Java-Typescript-PHP](https://www.readmecodegen.com/api/social-icon?name=Angular%2CFirebase%2Chtml5%2Ccss%2Cjavascript%2Creact%2Ctailwindcss%2Cbootstrap%2CLaravel%2CLinux%2CJavaScript%2CBootstrap%2CJava%2CTypescript%2CPHP&size=124&animation=fade&animationDuration=2.9&link=https%3A%2F%2Fgithub.com%2FDev-moe-kyawaung%2F)](https://github.com/Dev-moe-kyawaung/)
 
-
-
+---
 ### Professional Summary
 Senior Android Engineer with strong experience designing and delivering high-performance mobile applications using **Kotlin**, **Jetpack**, **MVVM/MVI**, and **Clean Architecture**. 
 
